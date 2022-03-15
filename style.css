@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@668&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Imprima&display=swap');
+
+.htmlbody {
+    background-image: repeating-linear-gradient(303deg, rgba(255,255,255,0.04) 0px, rgba(255,255,255,0.04) 2px,transparent 2px, transparent 4px),linear-gradient(168deg, rgb(225, 42, 142),rgb(4, 2, 73));
+    scroll-behavior: smooth;
+}
+  
+.iaaa {
+    color: black;
+    background: yellow;
+    font-size: 30.5px;
+}
+  
+.iaaa:hover {
+    color: blue;
+    background: yellow;
+    font-size: 30.5px;
+}
+  
+.bhw {
+    text-decoration: none;
+    font-size: 14.0px;
+    margin: 2.5px;
+    border-color: #ffea29;
+    color: #ffea29;
+    padding: 14.0px 28.0px;
+    background-color: black;
+    border-radius: 7.0px;
+    cursor: auto;
+}
+  
+.bhw:hover {
+    text-decoration: none;
+    font-size: 15.0px;
+    margin: 5.0px;
+    border-color: #ffea29;
+    color: black;
+    padding: 14.0px 28.0px;
+    background-color: #ffea29;
+    border-radius: 0.0px;
+    cursor: pointer;
+}
+
+.ctwius {
+    color: red;
+    background: black;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.ctwius:hover {
+    color: black;
+    background: red;
+    font-size: larger;
+    font-weight: lighter;
+}
+
+.bh {
+  color: brown;
+  font-weight: bold;
+}
+
+.bh:hover {
+  color: blueviolet;
+  font-weight: normal;
+}
+
+.maincont {
+    background: lightblue;
+}
+
+.maincont:hover {
+    background: dodgerblue;
+}
+
+.ooc {
+    color: black;
+    font-weight: bold;
+}
+
+.footerhtml {
+    color: white;
+    background-color: black;
+}
+
+.gbbf {
+    font-family: 'Oswald', sans-serif;
+}
+
+.gbbf:hover {
+    font-family: 'Oswald', sans-serif;
+}
+
+.vrf {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.vrf:hover {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.if {
+    font-family: 'Maitree', serif;
+}
+
+.if:hover {
+    font-family: 'Maitree', serif;
+}
